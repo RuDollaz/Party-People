@@ -2,5 +2,7 @@ body{
   background-color: red
 }
 h1{
-  color: black
+  color: black;
+  font-family: "Arial", Sans-serif, serif;
+  font-weight: bold;
 }
