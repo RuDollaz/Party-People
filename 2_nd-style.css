@@ -8,12 +8,5 @@ h1{
   color: white;
   font-family: "Arial", Sans-serif, serif;
   font-weight: bold;
-  
-}
-
-a{
-  font-size: 250%;
-}
-a:hover{
-  color:red;
+  font-size:250%;
 }
